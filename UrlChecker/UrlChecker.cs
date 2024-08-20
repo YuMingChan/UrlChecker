@@ -24,20 +24,24 @@ namespace UrlChecker
             {
            
                 int index = url.IndexOf(blockedUrl);
-                if (index >= 0) // Found the blocked URL
+                if (index >= 0)
                 {
-                    int nextCharIndex = index + blockedUrl.Length;
-                    if (specialChars.Contains(url[index - 1]) &&(nextCharIndex >= url.Length || specialChars.Contains(url[nextCharIndex]))  )
+                    if (index == 0 || specialChars.Contains(url[index - 1]))
                     {
-                        return true; // Blocked if no character or special character before or follows
+                        int nextIndex = index + blockedUrl.Length;
+                        if (nextIndex >= url.Length || specialChars.Contains(url[nextIndex]))
+                        {
+                            return true;
+                        }
                     }
-                  
                 }
 
-               
+
             }
             return false;
         }
+
+      
         public List<string> FilterBlockedUrls(List<string> toCheckUrls)
         {
             return toCheckUrls.Where(url => !IsBlocked(url)).ToList();
