@@ -1,0 +1,14 @@
+C:\Users\Jackal\Source\Repos\UrlChecker\UrlChecker\bin\Debug\net8.0\UrlChecker.exe
+C:\Users\Jackal\Source\Repos\UrlChecker\UrlChecker\bin\Debug\net8.0\UrlChecker.deps.json
+C:\Users\Jackal\Source\Repos\UrlChecker\UrlChecker\bin\Debug\net8.0\UrlChecker.runtimeconfig.json
+C:\Users\Jackal\Source\Repos\UrlChecker\UrlChecker\bin\Debug\net8.0\UrlChecker.dll
+C:\Users\Jackal\Source\Repos\UrlChecker\UrlChecker\bin\Debug\net8.0\UrlChecker.pdb
+C:\Users\Jackal\Source\Repos\UrlChecker\UrlChecker\obj\Debug\net8.0\UrlChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jackal\Source\Repos\UrlChecker\UrlChecker\obj\Debug\net8.0\UrlChecker.AssemblyInfoInputs.cache
+C:\Users\Jackal\Source\Repos\UrlChecker\UrlChecker\obj\Debug\net8.0\UrlChecker.AssemblyInfo.cs
+C:\Users\Jackal\Source\Repos\UrlChecker\UrlChecker\obj\Debug\net8.0\UrlChecker.csproj.CoreCompileInputs.cache
+C:\Users\Jackal\Source\Repos\UrlChecker\UrlChecker\obj\Debug\net8.0\UrlChecker.dll
+C:\Users\Jackal\Source\Repos\UrlChecker\UrlChecker\obj\Debug\net8.0\refint\UrlChecker.dll
+C:\Users\Jackal\Source\Repos\UrlChecker\UrlChecker\obj\Debug\net8.0\UrlChecker.pdb
+C:\Users\Jackal\Source\Repos\UrlChecker\UrlChecker\obj\Debug\net8.0\UrlChecker.genruntimeconfig.cache
+C:\Users\Jackal\Source\Repos\UrlChecker\UrlChecker\obj\Debug\net8.0\ref\UrlChecker.dll
